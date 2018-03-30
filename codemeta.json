@@ -63,8 +63,8 @@
 			"@id": "https://orcid.org/0000-0001-6390-2616"
 	  },
   ],
-	"name": "code-cite",
-	"softwareVersion": "0.2",
+	"name": "getpapers",
+	"softwareVersion": "0.1.0",
 	"datePublished": "2018-03-28",
-	"codeRepository": "https://github.com/softwaresaved/code-cite-container"
+	"codeRepository": "https://github.com/softwaresaved/getpapers"
 }
